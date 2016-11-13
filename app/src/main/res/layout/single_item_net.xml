@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow>
+            <ImageView
+                android:layout_height="65dp"
+                android:layout_width="65dp"
+                android:id="@+id/net_pic_id" />
+            <TextView
+                android:layout_height="65dp"
+                android:layout_width="wrap_content"
+                android:id="@+id/net_name" />
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>

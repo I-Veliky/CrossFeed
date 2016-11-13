@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrossFeed</string>
+    <string name="notification">You aren't authorized in any account</string>
+</resources>
